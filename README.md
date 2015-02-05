@@ -1,3 +1,8 @@
+*DO NOT USE*
+
+This is superseded by the fabulous https://github.com/docker/swarm-library-image, which is smaller, better maintained, and official!
+
+
 # Docker image for running swarm
 See [swarm](https://github.com/docker/swarm).
 
